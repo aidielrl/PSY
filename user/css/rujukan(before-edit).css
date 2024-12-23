@@ -1,0 +1,12 @@
+@media print {
+
+    @page {size: A4 portrait; }
+
+    /* use width if in portrait (use the smaller size to try 
+       and prevent image from overflowing page... */
+    img { width:100% ; margin: 0; padding: 0; }	
+    table{width: 100%; margin: 1; padding: 1;}
+    form {width: 95%; margin: 1; padding: 1;}
+    body { font-size: 12pt }
+}
+

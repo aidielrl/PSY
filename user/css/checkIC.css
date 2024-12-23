@@ -1,0 +1,18 @@
+#btn-carian:hover 
+{
+  
+  background-color: grey;
+  color: black;
+}
+
+.w3-input
+{
+  outline-style: solid;
+  outline-width: thin;
+  outline-color: #d491d4;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}

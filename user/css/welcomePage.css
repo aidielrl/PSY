@@ -1,0 +1,29 @@
+
+body{
+
+    background-color:#f0dddd;
+    overflow-x:auto;
+}
+
+#myHeader
+{
+    background-color: #A33FA3;
+    overflow-x:auto;
+}
+
+.w3-center
+{
+    color: white;
+    overflow-x:auto;
+}
+
+.w3-theme-dark
+{
+    background-color: #A33FA3;
+    overflow-x:auto;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}

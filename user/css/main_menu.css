@@ -1,0 +1,41 @@
+
+#carian-btn
+{
+    background-color: #A33FA3;
+    border: none;
+    color: white;
+    padding: 8px 115px;
+    text-decoration: none;
+
+}
+
+#btn-edit:hover 
+{
+    background-color:grey;
+}
+
+#overall-btn
+{
+    background-color: #A33FA3;
+    border: none;
+    color: white;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+
+#overall-btn:hover {
+  background-color:grey;
+}
+
+#jbtn-btn
+{
+    background-color: #A33FA3;
+    border: none;
+    color: white;
+    padding: 10px 38px;
+    text-decoration: none;
+}
+
+#jbtn-btn:hover {
+  background-color:grey;
+}

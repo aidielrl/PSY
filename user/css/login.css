@@ -1,0 +1,21 @@
+input
+{
+    width: 200;
+    margin: 15px auto;
+}
+
+
+#submit
+{
+    width: 30%;
+    display: block;
+    margin: 15px 280px;
+}
+
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+

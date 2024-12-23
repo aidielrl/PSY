@@ -1,0 +1,76 @@
+table
+{
+    background-color:#ebebe0;
+}
+
+table.tableic
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+  table.tableic tr:nth-child(odd) 
+{
+   background-color: #ebebe0;
+
+}
+
+  table.tableic th
+{
+    background-color:rgb(5, 115, 143);
+    color: white;
+}
+
+
+#btn-edit
+{
+    background-color:#c72ac7; 
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;    
+}
+
+#btn-edit:hover {
+  background-color:grey;
+}
+
+#btn-rujuk
+{
+  background-color: #c72ac7;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+
+}
+
+#btn-rujuk:hover {
+  background-color:grey;
+}
+
+#btn-delete
+{
+    background-color: red; 
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+
+#btn-prosedur
+{
+    background-color:#c72ac7; 
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+
+#btn-prosedur:hover {
+  background-color:grey;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+

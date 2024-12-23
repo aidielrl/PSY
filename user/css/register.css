@@ -1,0 +1,37 @@
+html
+{
+    scroll-behavior: smooth;
+}
+
+input[type=text], select
+{
+  outline-style: solid;
+  outline-width: thin;
+  outline-color: #d491d4;
+  width: 100%;
+  padding: 8px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  
+}
+
+input[type=date]
+{
+  outline-style: solid;
+  outline-width: thin;
+  outline-color: #d491d4;
+  width: 100%;
+  padding: 8px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  
+}
+
+
+

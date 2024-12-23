@@ -1,0 +1,60 @@
+#btn-delProd
+{
+    background-color: red; 
+    color: white;
+    text-decoration: none;
+    padding: 4px 4px;
+    margin: 4px 2px;
+    width : 80px;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+input[type=text], select
+{
+  outline-style: solid;
+  outline-width: thin;
+  outline-color: #d491d4;
+  width: 100%;
+  padding: 8px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  
+}
+
+th, td 
+{
+    padding: 3px;
+}
+
+table#tableprod th
+{
+    background-color:#d491d4;
+    color: black;
+    padding: 3px;
+}
+
+table#tableprod td
+{
+    border-bottom: 1px solid #ccc;
+
+}
+
+@media print {
+
+    @page {size: A4 portrait; }
+
+    /* use width if in portrait (use the smaller size to try 
+       and prevent image from overflowing page... */
+    img { width: 100%; margin: 0; padding: 0; }	
+    table{width: 100%; margin: 1; padding: 1;}
+    form {width: 95%; margin: 1; padding: 1;}
+}
+
+

@@ -1,0 +1,1 @@
+<a href="adminLogout.php" style="text-decoration: none; float:right; text-align:center; padding: 10px 10px; border:none !important;"><span class="navbar"> LOG KELUAR</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

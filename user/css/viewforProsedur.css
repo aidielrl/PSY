@@ -1,0 +1,29 @@
+html
+{
+    scroll-behavior: smooth;
+}
+
+table
+{
+    background-color:#ebebe0;
+}
+
+table.tableprod 
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+table.tableprod tr:nth-child(even) {
+    background-color: rgb(255, 255, 255);
+  }
+  table.tableprod  tr:nth-child(odd) {
+   background-color:  rgb(230, 179, 179);
+  }
+
+  table.tableprod  th 
+  {
+    background-color:rgb(5, 115, 143);
+    color: white;
+  }
